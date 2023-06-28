@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @otter365
-- 👀 I’m interested in blockchain
-- 🌱 I’m currently learning cryptocurrency
-- 💞️ I’m looking to collaborate on smart contracts.
+- 👋 Hi, I’m @otter365.
+- 👀 I’m interested in data science.
+- 🌱 I’m currently learning programmatic ads dynamics.
+- 💞️ I’m looking to collaborate on methods to optmize optmization.
 - 📫 How to reach me : @otter365
 
 <!---
