@@ -1,19 +1,20 @@
-<h1>Hi, I'm Rubik!
+# Hi, I'm Rubik!
+<!-- #### Technical Skills: Python, SQLAWS, Snowflake -->
 
-<h2>👨‍💻 Software Development Projects:</h2>
+## Education
+- M.Sc. Computer Science | Imperial College London
+- B.Sc. Electrical Engineering | State University of Campinas
+
+## Software Development Projects
 - X
-<!--
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
--->
 
-<h2>💡Product Management Resources:</h2>
+## Product Management Resources
   - <b>X</b>
 
-<h2>📺 YouTube Videos</h2>
+## YouTube Videos
   - <b>X</b>
 
-
-<h2> 🤳 Connect with me:</h2>
+## Connect with me
 
 [<img align="left" alt="Rubik | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
